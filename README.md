@@ -1,6 +1,6 @@
-## PMSkript-2.0.0
+## PMSkript_2.0.0
 
-PMSkript-2.0.0 is a PHP and MySQL based private messaging system.
+PMSkript_2.0.0 is a PHP and MySQL based private messaging system.
 It is a newly revised version of my previous procedurally written script.
 The script includes a login and registration system.
 
